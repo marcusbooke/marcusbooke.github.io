@@ -1,14 +1,14 @@
-title: riggraz
-email: riccardo.graziosi97@gmail.com
-description: riggraz's thoughts
+title: Random Thoughts
+# email: riccardo.graziosi97@gmail.com
+description: thoughts...
 baseurl: ""
-url: "https://riggraz.dev"
-github_username:  riggraz
+url: "https://marcusbooke.github.io"
+# github_username:  riggraz
 
 permalink: /:slug.html
 
 favicon: "favicon.png"
-goat_counter: "riggraz" # put your GoatCounter name if you want to use GoatCounter analytics
+# goat_counter: "riggraz" # put your GoatCounter name if you want to use GoatCounter analytics
 
 # Build settings
 remote_theme: riggraz/no-style-please
